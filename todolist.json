@@ -1,0 +1,21 @@
+{
+    "openapi":"3.0.2",
+    "info": {
+      "title":"TodoList RESTful API",
+      "version":"1.0",
+      "description": "openAPI for TodoList RESTful API",
+      "termsOfService": "https://alfatah.github.io/",
+      "contact": {
+        "name": "Sholahuddin Alfatah",
+        "email": "alfatah1505@gmail.com",
+        "url": "https://alfatah.github.io/"
+    },
+    "License" : {
+      "name" : "APACHE 2.0",
+      "url" : "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  },
+    "servers": [],
+    "paths": {}
+  
+}
